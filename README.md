@@ -24,3 +24,5 @@ Consider defining a bean of type 'com.yusuf.travel.repository.UserRepository' in
 
 
 So To run the applicaiton may be we need to create a new projects and copy all the packages, Html files, application properties file, and Data.sql file in the new project. And the project will be good to run. I have been trying to fix the issuse. But as there is very little time I couldn't look into it properly. 
+
+
